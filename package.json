@@ -1,0 +1,62 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.10",
+    "@material-ui/icons": "^4.9.1",
+    "@phuocng/react-pdf-viewer": "^1.6.0",
+    "@react-icons/all-files": "^4.1.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.4.1",
+    "emailjs-com": "^2.6.4",
+    "mdbreact": "^4.25.6",
+    "pdfjs-dist": "^2.3.200",
+    "photoswipe": "^4.1.3",
+    "react": "^16.13.1",
+    "react-animated-progress-bar": "^1.0.4",
+    "react-bootstrap": "^1.0.0",
+    "react-circular-menu": "^1.0.2",
+    "react-dom": "^16.13.1",
+    "react-dynamic-charts": "^1.0.5",
+    "react-icons": "^4.2.0",
+    "react-native": "^0.64.0",
+    "react-particles-js": "^2.7.1",
+    "react-photoswipe-gallery": "^1.3.4",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-scroll-section": "^3.0.2",
+    "react-sticky": "^6.0.3",
+    "react-svg-donuts": "^2.0.1",
+    "react-transition-group": "^4.3.0",
+    "react-typewriter-effect": "^1.0.2",
+    "react-welcome-page": "^0.2.1",
+    "reactstrap": "^8.4.1",
+    "wowjs": "^1.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
